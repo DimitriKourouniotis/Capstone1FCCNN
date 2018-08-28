@@ -9,15 +9,25 @@ In the winter of 2017 there were numerous articles about quantity of fake commen
 A blog post published by Jeff Kao caught my attention and I followed up with him on his analysis of the text. He provided me with the unedited 22 million filings available. I analyzed a sample of 3 million of them to see what I could find to develop my own features based around the text of faked comments.
 
 00 Summary and Table of Contents
+
 01 Importing 3 million FCC records from SQL
+
 02 Email domains
+
 03 WordCloud
+
 04 Submission Frequency
+
 05 State Population Estimates 2016 and Comment Percentages
+
 06 Plotting Differences from Average
+
 07 Chorogrid Map of US
+
 08 Statistics Proportions by State Relative to Population
+
 09 Classifiers and Feature Selection
+
 Acknowledgements
 Many thanks to my mentor, Rajiv Shah!
 Thanks to the following for the data and code help for this capstone:
