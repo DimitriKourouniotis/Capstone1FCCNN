@@ -7,7 +7,7 @@ by Dimitri Kourouniotis
 In the winter of 2017 there were numerous articles about quantity of fake comments submitted regarding the repeal of Net Neutrality laws by the FCC.
 
 A blog post published by Jeff Kao caught my attention and I followed up with him on his analysis of the text. He provided me with the unedited 22 million filings available. I analyzed a sample of 3 million of them to see what I could find to develop my own features based around the text of faked comments.
-
+![Image of Jeff Kao Article](https://github.com/DimitriKourouniotis/Capstone1FCCNN/blob/master/images/SplashMoreThanaMillion.jpg)
 <hr>
 
 <a href="https://github.com/DimitriKourouniotis/Capstone1FCCNN/blob/master/Capstone%201%20Report%20FCC%20Net%20Neutrality%20Submissions.pdf">Capstone Report (pdf)</a>
