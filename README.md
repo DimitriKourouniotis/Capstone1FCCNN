@@ -33,7 +33,6 @@ A blog post published by Jeff Kao caught my attention and I followed up with him
 <a href="https://github.com/DimitriKourouniotis/Capstone1FCCNN/blob/master/08%20Capstone%201%20Stats%20Proportions%20by%20State%20relative%20to%20Population.ipynb">08 Statistics Proportions by State Relative to Population</a>
 
 <a href="https://github.com/DimitriKourouniotis/Capstone1FCCNN/blob/master/09%20Classifiers%20and%20Feature%20Selections.ipynb">09 Classifiers and Feature Selection</a>
-
 <br>
 
 ## Acknowledgements
