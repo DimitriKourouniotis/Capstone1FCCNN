@@ -28,21 +28,21 @@ A blog post published by Jeff Kao caught my attention and I followed up with him
 
 09 Classifiers and Feature Selection
 
-Acknowledgements
-Many thanks to my mentor, Rajiv Shah!
-Thanks to the following for the data and code help for this capstone:
-Data: Jeff Kao
-More than a million pro-repeal net neutrality comments were likely faked
+Acknowledgements<br>
+Many thanks to my mentor, Rajiv Shah!<br>
+Thanks to the following for the data and code help for this capstone:<br>
+Data: Jeff Kao<br>
+More than a million pro-repeal net neutrality comments were likely faked<br>
 https://hackernoon.com/more-than-a-million-pro-repeal-net-neutrality-comments-were-likely-faked-e9f0e3ed36a6
 
-Word Cloud: Nikhil Kumar Singh
-wordcloud example
+Word Cloud: Nikhil Kumar Singh<br>
+wordcloud example<br>
 https://github.com/nikhilkumarsingh/wordcloud-example/blob/7a77e97c4da135b67ad924be96269d6bb68a0fe6/mywc.py
 
-Chorogrid Plot: lavinben88
-chorogrid tutorial part 2
+Chorogrid Plot: lavinben88<br>
+chorogrid tutorial part 2<br>
 https://plot.ly/~lavinben88/116/chorogrid-tutorial-part-2-chorogri/
 
-Classifier Iterator: Evgeny Volkov
-SMS spam detection with various classifiers
+Classifier Iterator: Evgeny Volkov<br>
+SMS spam detection with various classifiers<br>
 https://www.kaggle.com/muzzzdy/sms-spam-detection-with-various-classifiers
