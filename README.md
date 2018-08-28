@@ -32,10 +32,10 @@ A blog post published by Jeff Kao caught my attention and I followed up with him
 
 <a href="https://github.com/DimitriKourouniotis/Capstone1FCCNN/blob/master/09%20Classifiers%20and%20Feature%20Selections.ipynb">09 Classifiers and Feature Selection</a>
 
-##Acknowledgements<br>
+## Acknowledgements<br>
 Many thanks to my mentor, Rajiv Shah!
 
-###Thanks to the following for the data and code help for this capstone:<br>
+### Thanks to the following for the data and code help for this capstone:<br>
 Data: Jeff Kao<br>
 More than a million pro-repeal net neutrality comments were likely faked<br>
 https://hackernoon.com/more-than-a-million-pro-repeal-net-neutrality-comments-were-likely-faked-e9f0e3ed36a6
