@@ -10,7 +10,7 @@ A blog post published by Jeff Kao caught my attention and I followed up with him
 
 00 Summary and Table of Contents
 
-01 Importing 3 million FCC records from SQL
+<a href="https://github.com/DimitriKourouniotis/Capstone1FCCNN/blob/master/01%20Importing%203m%20FCC%20records%20from%20SQL%20.ipynb">01 Importing 3 million FCC records from SQL</a>
 
 02 Email domains
 
