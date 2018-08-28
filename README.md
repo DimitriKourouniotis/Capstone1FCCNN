@@ -8,6 +8,8 @@ In the winter of 2017 there were numerous articles about quantity of fake commen
 
 A blog post published by Jeff Kao caught my attention and I followed up with him on his analysis of the text. He provided me with the unedited 22 million filings available. I analyzed a sample of 3 million of them to see what I could find to develop my own features based around the text of faked comments.
 
+<br>
+
 <a href="https://github.com/DimitriKourouniotis/Capstone1FCCNN/blob/master/Capstone%201%20Report%20FCC%20Net%20Neutrality%20Submissions.pdf">Capstone Report (pdf)</a>
 
 <a href="https://github.com/DimitriKourouniotis/Capstone1FCCNN/blob/master/Capstone%201%20Slidedeck%20FCC%20NLP%20NN%20Kourouniotis.pdf">Capstone Summary Slidedeck (pdf)</a>
@@ -32,7 +34,9 @@ A blog post published by Jeff Kao caught my attention and I followed up with him
 
 <a href="https://github.com/DimitriKourouniotis/Capstone1FCCNN/blob/master/09%20Classifiers%20and%20Feature%20Selections.ipynb">09 Classifiers and Feature Selection</a>
 
-## Acknowledgements<br>
+<br>
+
+## Acknowledgements
 Many thanks to my mentor, Rajiv Shah!
 
 ### Thanks to the following for the data and code help for this capstone:<br>
