@@ -28,15 +28,15 @@ A blog post published by Jeff Kao caught my attention and I followed up with him
 ![Suspcious submission timing](https://github.com/DimitriKourouniotis/Capstone1FCCNN/blob/master/images/SubmissionsPerMinute.png)
 
 <a href="https://github.com/DimitriKourouniotis/Capstone1FCCNN/blob/master/05%20Capstone%20State%20Pop%20estimates%202016%20and%20Comments%20percentages.ipynb">05 State Population Estimates 2016 and Comment Percentages</a>
-![Comments by state variations from population](https://github.com/DimitriKourouniotis/Capstone1FCCNN/blob/master/images/Stemplot_differences.png)
 
 <a href="https://github.com/DimitriKourouniotis/Capstone1FCCNN/blob/master/06%20Capstone%201%20plotting%20differences%20from%20average.ipynb">06 Plotting Differences from Average</a>
-![Comments by state variations from Normal](https://github.com/DimitriKourouniotis/Capstone1FCCNN/blob/master/images/DistributionOfDifferencesNorm.png)
+![Comments by state variations from population](https://github.com/DimitriKourouniotis/Capstone1FCCNN/blob/master/images/Stemplot_differences.png)
 
 <a href="https://github.com/DimitriKourouniotis/Capstone1FCCNN/blob/master/07%20Capstone%201%20Choropleth%20Map%20USA%20.ipynb">07 Choropleth grid Map of US</a>
 ![Variations mapped](https://github.com/DimitriKourouniotis/Capstone1FCCNN/blob/master/images/chorogridVariationsFromState.jpg)
 
 <a href="https://github.com/DimitriKourouniotis/Capstone1FCCNN/blob/master/08%20Capstone%201%20Stats%20Proportions%20by%20State%20relative%20to%20Population.ipynb">08 Statistics Proportions by State Relative to Population</a>
+![Comments by state variations from Normal](https://github.com/DimitriKourouniotis/Capstone1FCCNN/blob/master/images/DistributionOfDifferencesNorm.png)
 
 <a href="https://github.com/DimitriKourouniotis/Capstone1FCCNN/blob/master/09%20Classifiers%20and%20Feature%20Selections.ipynb">09 Classifiers and Feature Selection</a>
 <hr>
