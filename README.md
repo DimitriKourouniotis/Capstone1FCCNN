@@ -8,25 +8,29 @@ In the winter of 2017 there were numerous articles about quantity of fake commen
 
 A blog post published by Jeff Kao caught my attention and I followed up with him on his analysis of the text. He provided me with the unedited 22 million filings available. I analyzed a sample of 3 million of them to see what I could find to develop my own features based around the text of faked comments.
 
-00 Summary and Table of Contents
+<a href="https://github.com/DimitriKourouniotis/Capstone1FCCNN/blob/master/Capstone%201%20Report%20FCC%20Net%20Neutrality%20Submissions.pdf">Capstone Report</a>
+
+<a href="https://github.com/DimitriKourouniotis/Capstone1FCCNN/blob/master/Capstone%201%20Report%20FCC%20Net%20Neutrality%20Submissions.pdf">Capstone Summary Slidedeck</a>
+
+<a href="https://github.com/DimitriKourouniotis/Capstone1FCCNN/blob/master/00%20Summary%20and%20Table%20of%20Contents%20and%20Acknowledgements.ipynb">00 Summary and Table of Contents</a>
 
 <a href="https://github.com/DimitriKourouniotis/Capstone1FCCNN/blob/master/01%20Importing%203m%20FCC%20records%20from%20SQL%20.ipynb">01 Importing 3 million FCC records from SQL</a>
 
-02 Email domains
+<a href="https://github.com/DimitriKourouniotis/Capstone1FCCNN/blob/master/02%20Capstone%201%20Email%20domains.ipynb">02 Email domains</a>
 
-03 WordCloud
+<a href="https://github.com/DimitriKourouniotis/Capstone1FCCNN/blob/master/03%20WordCloud.ipynb">03 WordCloud</a>
 
-04 Submission Frequency
+<a href="https://github.com/DimitriKourouniotis/Capstone1FCCNN/blob/master/04%20Capstone%201%20FCC%20Submissions%20Frequency.ipynb">04 Submission Frequency</a>
 
-05 State Population Estimates 2016 and Comment Percentages
+<a href="https://github.com/DimitriKourouniotis/Capstone1FCCNN/blob/master/05%20Capstone%20State%20Pop%20estimates%202016%20and%20Comments%20percentages.ipynb">05 State Population Estimates 2016 and Comment Percentages</a>
 
-06 Plotting Differences from Average
+<a href="https://github.com/DimitriKourouniotis/Capstone1FCCNN/blob/master/06%20Capstone%201%20plotting%20differences%20from%20average.ipynb">06 Plotting Differences from Average</a>
 
-07 Chorogrid Map of US
+<a href="https://github.com/DimitriKourouniotis/Capstone1FCCNN/blob/master/07%20Capstone%201%20Choropleth%20Map%20USA%20.ipynb">07 Choropleth grid Map of US</a>
 
-08 Statistics Proportions by State Relative to Population
+<a href="https://github.com/DimitriKourouniotis/Capstone1FCCNN/blob/master/08%20Capstone%201%20Stats%20Proportions%20by%20State%20relative%20to%20Population.ipynb">08 Statistics Proportions by State Relative to Population</a>
 
-09 Classifiers and Feature Selection
+<a href="https://github.com/DimitriKourouniotis/Capstone1FCCNN/blob/master/09%20Classifiers%20and%20Feature%20Selections.ipynb">09 Classifiers and Feature Selection</a>
 
 Acknowledgements<br>
 Many thanks to my mentor, Rajiv Shah!<br>
